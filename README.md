@@ -34,6 +34,6 @@ I am an aspiring Software Engineer and Data Enthusiast. I am passionate about us
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [Insert your Clean Link here]
-- **Email:** [Your Email Address]
+- **LinkedIn:** [https://www.linkedin.com/in/emmanuel-edodi-b8b6253aa]
+- **Email:** [emmanueledodi04@gmail.com]
 - 
