@@ -1,5 +1,5 @@
 # Hi there, I'm Emmanuel Edodi 👋
-**Computer Science Student | University of Calabar**
+**Information System/Data science Student | University of Calabar**
 
 I am an aspiring Software Engineer and Data Enthusiast. I am passionate about using technology to solve logical problems and building efficient systems.
 
