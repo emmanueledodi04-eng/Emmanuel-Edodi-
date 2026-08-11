@@ -9,7 +9,7 @@ I am an aspiring Software Engineer and Data Enthusiast. I am passionate about us
 - **Languages:** Python (Intermediate), Java (Basic), SQL
 - **Web Tech:** HTML5, CSS3
 - **Tools:** Git/GitHub, VS Code, MS Excel (Statistical Analysis)
-- **Current Learning:** Backend Development & Database Management
+- **Current Learning:** Data Analysis & Database Management
 
 ---
 
